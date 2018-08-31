@@ -8,3 +8,9 @@ This container can be pulled with:
 ```bash
 docker pull linedwell/anybadge
 ```
+
+# Usage
+```bash
+docker run --rm -v $(pwd):/code -w "/code" linedwell/anybadge \
+  anybadge --value=$score --file=<badgeName>.svg <badgeLabel>
+```
