@@ -1,4 +1,4 @@
-[![Build Status](https://gitlab.com/linedwell/docker-anybadge/badges/master/build.svg)](https://gitlab.com/linedwell/docker-anybadge)
+[![Build Status](https://gitlab.com/linedwell/docker-anybadge/badges/master/pipeline.svg)](https://gitlab.com/linedwell/docker-anybadge)
 
 # docker-anybadge
 
